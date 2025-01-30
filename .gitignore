@@ -1,0 +1,11 @@
+DataPrepare/Data/*
+!DataPrepare/Data/DBAASP_id_SMILES_bact_mean_MICs.csv
+!DataPrepare/Data/DBAASP_id_SMILES_compare.csv
+DataPrepare/*
+!DataPrepare/
+!DataPrepare/Data/
+!DataPrepare/visualize_mol_diff.py
+e3nn_playground/
+Fangping_correlation/
+.DS_Store
+.idea/
