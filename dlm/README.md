@@ -1,4 +1,4 @@
-### Train DLM on molecular SELFIES
+### Train diffusion language model (DLM) on molecular SELFIES
 To train the DLM with the multitask descriptor regression loss on our curated SELFIES data, please use the following command:
 ```
 python main.py \
