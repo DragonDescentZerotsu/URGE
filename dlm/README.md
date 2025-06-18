@@ -10,11 +10,6 @@ python main.py \
   sampling.steps=1000
 ```
 
-
-### Acknowledgements
-This repository was built off of [MDLM](https://github.com/kuleshov-group/mdlm).
-
-
 ### Software version
 ```
 torch: 2.4.1+cu118 
@@ -39,3 +34,8 @@ triton: 2.1.0
 wandb: 0.13.5 
 flash-attn: 2.6.3 
 ```
+
+### Acknowledgements
+This repository was built off of [MDLM](https://github.com/kuleshov-group/mdlm).
+
+
