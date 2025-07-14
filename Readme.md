@@ -1,9 +1,3 @@
-MIC data (with mean MIC) in:  
-DataPrepare/Data/DBAASP_id_SMILES_bact_mean_MICs.csv  
+## Full code to be updated
 
-Comparison between MICs in:  
-DataPrepare/Data/DBAASP_id_SMILES_compare.csv
-
-An example Code for how to compare two SMILES strings
-
-Training code is fine_tune_on_DBAASP_SMILES_5_fold_mean_MIC.py
+## Code for running our DLM can be found in folder DLM
