@@ -1,3 +1,4 @@
-## Full code to be updated
+![ApexOracle](./hf.png)
+# Official Implementation for ApexOracle -- Omnimodal pRedictive and generative ArhiteCture 
 
 ## Code for running our DLM can be found in folder dlm
