@@ -6,6 +6,7 @@
     <a href='https://scholar.google.com/citations?hl=en&user=-_X99PYAAAAJ&view_op=list_works&sortby=pubdate' target='_blank'>Fangping Wan </a><sup><img src="assets/uiuc.svg" align="center" width=0.8% >&#8224;</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=N-Z6jh8AAAAJ&hl=en' target='_blank'>Marcelo Der Torossian Torres </a><sup><img src="assets/uiuc.svg" align="center" width=0.8% ></sup>&emsp;
     <a href='https://delafuentelab.seas.upenn.edu/principal-investigator/' target='_blank'>Cesar de la Fuente </a><sup><img src="assets/uiuc.svg" align="center" width=0.8% ></sup>&emsp;
+    <br>
     <sup>&#8224;</sup>: Equal contribution
     <br>
   </p>
