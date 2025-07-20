@@ -40,3 +40,7 @@ If you find this repo helpful, please cite:
   year={2025}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DragonDescentZerotsu/ApexOracle&type=Date)](https://star-history.com/#DragonDescentZerotsu/ApexOracle.&Date)
