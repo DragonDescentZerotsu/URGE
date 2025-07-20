@@ -29,3 +29,14 @@
 ### Quick start implementation for molecule embedding extraction with our Diffusion Language Model (DLM) can be found at [HuggingFace](https://huggingface.co/Kiria-Nozan/ApexOracle) 🤗
 ### Code for pre-training our DLM can be found in folder [DLM_pretrain](./DLM_pretrain)
 ### Flexible and accurate transforming between peptides and SMILES/SELFIES: [PepLink✨](./PepLink)
+
+## Citation
+If you find this repo helpful, please cite:
+```Tex
+@article{leng2025predicting,
+  title={Predicting and generating antibiotics against future pathogens with ApexOracle},
+  author={Leng, Tianang and Wan, Fangping and Torres, Marcelo Der Torossian and de la Fuente-Nunez, Cesar},
+  journal={arXiv preprint arXiv:2507.07862},
+  year={2025}
+}
+```
