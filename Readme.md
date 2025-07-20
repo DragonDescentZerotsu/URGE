@@ -19,7 +19,7 @@
       <img src='https://img.shields.io/badge/Paper-PDF-pink?style=flat&logo=arXiv&logoColor=pink'></a>
     <a href='https://huggingface.co/Kiria-Nozan/ApexOracle'>
       <img src='https://img.shields.io/badge/HuggingFace-Model-orange?logo=huggingface&style=flat'></a>
-    <a href='https://github.com/ASTRAL-Group/AlphaOne'>
+    <a href='https://huggingface.co/datasets/Kiria-Nozan/ApexOracle'>
       <img src='https://img.shields.io/badge/HuggingFace-Dataset-green?logo=huggingface&style=flat'></a>
   </p>
 
