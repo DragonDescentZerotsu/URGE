@@ -11,6 +11,18 @@
     <br>
     <sup>&#8224;</sup>: Equal contribution
     <br>
+
+  <p align="center">
+    <a href='https://www.alphaxiv.org/overview/2507.07862v1'>
+      <img src='https://img.shields.io/badge/alphaXiv Blog-2507.07862-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
+    <a href='https://arxiv.org/pdf/2507.07862'>
+      <img src='https://img.shields.io/badge/Paper-PDF-pink?style=flat&logo=arXiv&logoColor=pink'></a>
+    <a href='https://huggingface.co/Kiria-Nozan/ApexOracle'>
+      <img src='https://img.shields.io/badge/HuggingFace-Model-orange?logo=huggingface&style=flat'></a>
+    <a href='https://github.com/ASTRAL-Group/AlphaOne'>
+      <img src='https://img.shields.io/badge/HuggingFace-Dataset-green?logo=huggingface&style=flat'></a>
+  </p>
+
   </p>
 </p>
 
