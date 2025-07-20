@@ -28,3 +28,4 @@
 
 ### Quick start implementation for molecule embedding extraction with our Diffusion Language Model (DLM) can be found at [HuggingFace](https://huggingface.co/Kiria-Nozan/ApexOracle) 🤗
 ### Code for pre-training our DLM can be found in folder [DLM_pretrain](./DLM_pretrain)
+### Flexible and accurate transforming between peptides and SMILES/SELFIES: [PepLink✨](./PepLink)
