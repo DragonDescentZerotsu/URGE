@@ -159,6 +159,6 @@ from PepLink import *
 
 # load SMILES of amino acids
 aa_smiles_dict = get_aa_smiles_dict('./Data/all_aa_smiles_new_handcrafted.csv')
-
+# TODO
 
 ```
