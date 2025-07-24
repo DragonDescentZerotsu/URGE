@@ -30,7 +30,7 @@
 ### Code for pre-training our DLM can be found in folder [DLM_pretrain](./DLM_pretrain)
 ### Flexible and accurate transforming between peptides and SMILES/SELFIES: [PepLink✨](./PepLink)
 
-### * More content to be updated
+### * More content to be updated ❗️
 
 ## Citation
 If you find this repo helpful, please cite:
